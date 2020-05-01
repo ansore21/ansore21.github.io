@@ -1,0 +1,9 @@
+Package: com.ansore21.ps4remoteplaypatch
+Name: ps4remoteplaypatch
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: PS4 Remote Play over Cellular
+Maintainer: ansore21
+Author: ansore21
+Section: Tweak
