@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: ansore21
 Filename: ./debs/com.ansore21.ps4remoteplaypatch_1.0_iphoneos-arm.deb
 Size: 628
-MD5sum: 9da5c19a5a40ac10cd04134651a83343
-SHA1: 3d0e26f736eca8c32af5be1323543ff1be6e7f79
-SHA256: 128c74a69bbeffe6a457deff2c85ef0504780d00fa63c3895ac7b19d8f05ef17
+MD5sum: ee925fb678d4239ec73ceb0bbcd33bd2
+SHA1: b8fab832efc819dbffa0bae983786a5ed5cdd30c
+SHA256: e37042d31dc63f713a7a504909f89c6ed155496266726adf7b14bed86604528b
 Section: Tweak
 Description: PS4 Remote Play over Cellular
 Author: ansore21
