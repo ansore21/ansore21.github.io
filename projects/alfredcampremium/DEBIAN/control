@@ -1,0 +1,9 @@
+Package: com.ansore21.alfredcampremium
+Name: alfredcampremium
+Depends:
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Alfred Cam Premium Features
+Maintainer: ansore21
+Author: ansore21
+Section: Tweak
