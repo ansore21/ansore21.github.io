@@ -1,0 +1,9 @@
+Package: com.ansore21.alfredcampremium
+Name: alfredcampremium
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Egan Ansorge
+Author: Egan Ansorge
+Section: Tweaks

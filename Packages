@@ -1,12 +1,27 @@
+Package: com.ansore21.alfredcampremium
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Egan Ansorge
+Depends: mobilesubstrate
+Filename: ./debs/com.ansore21.alfredcampremium_0.0.1_iphoneos-arm.deb
+Size: 600
+MD5sum: 504019c4d95368fef787bb68e29ab2b3
+SHA1: a2e898d4f2f89331060c8f8347b0e7ec0db21e3d
+SHA256: 25f294cf0587f155381a819dcf24a8f285e0d562eec0738ebebd3708abc9eaeb
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Egan Ansorge
+Name: alfredcampremium
+
 Package: com.ansore21.ps4remoteplaypatch
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ansore21
 Filename: ./debs/com.ansore21.ps4remoteplaypatch_1.0_iphoneos-arm.deb
 Size: 628
-MD5sum: ee925fb678d4239ec73ceb0bbcd33bd2
-SHA1: b8fab832efc819dbffa0bae983786a5ed5cdd30c
-SHA256: e37042d31dc63f713a7a504909f89c6ed155496266726adf7b14bed86604528b
+MD5sum: 0ca4b7dd0d73295326ff7d4ac5482b2f
+SHA1: c072ec1524fbdb99aedebddd522f50a27e8b2ac7
+SHA256: 247ee7738e45e78ff3f8d5eba60e7551175679dea622be7c33e7af979a8a6052
 Section: Tweak
 Description: PS4 Remote Play over Cellular
 Author: ansore21
